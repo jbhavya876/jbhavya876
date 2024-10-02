@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhavya Jain
-- 👀 I’m interested in Webdev.
-- 🌱 I’m currently learning DSA with Java and development in Web using Javascript.
-- 💞️ I’m looking to collaborate on my Webdev Projects
-- 📫 You can reach me through my gmail account "jbhavya876@gmail.com" 
+- 👀 I’m interested in Mlops.
+- 🌱 I’m currently learning DSA with C++ and development in Mlops using Docker, Github Actions and Jenkins.
+- 💞️ I’m looking to collaborate on my Mlops project.
+- 📫 You can reach me through my gmail account "jbhavya876@gmail.com".
