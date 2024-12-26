@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhavya Jain
-- 👀 I’m interested in Mlops.
-- 🌱 I’m currently learning DSA with C++ and development in Mlops using Docker, Github Actions and Jenkins.
-- 💞️ I’m looking to collaborate on my Mlops project.
+- 👀 I’m interested in Blockchain and DevOps.
+- 🌱 I’m currently learning DSA with Java and web development in backend using Javascript and its frameworks.
+- 💞️ I’m looking to collaborate on my backend development projects.
 - 📫 You can reach me through my gmail account "jbhavya876@gmail.com".
