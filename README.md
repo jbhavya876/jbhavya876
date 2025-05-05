@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhavya Jain
-- 👀 I’m interested in Blockchain and DevOps.
-- 🌱 I’m currently learning DSA with Java and web development in backend using Javascript and its frameworks.
-- 💞️ I’m looking to collaborate on my backend development projects.
+- 👀 I’m interested in Blockchain and Cybersecurity.
+- 🌱 I’m currently learning DSA with C++ and smart contract development and zero knowledge proofs in blockchain using Solidity, Javascript and its frameworks.
+- 💞️ I’m looking to collaborate on my blockchain based projects.
 - 📫 You can reach me through my gmail account "jbhavya876@gmail.com".
