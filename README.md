@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Bhavya Jain 👨‍💻</h1>
 <p align="center">
-  <em>Smart Contract Developer | Cryptographer Researcher | Zero Knowledge Proofs and DevOps Learner | Aspiring Protocol Engineer</em>
+  <em>Smart Contract Developer | Cryptography Researcher | Zero Knowledge Proofs and DevOps Learner | Aspiring Protocol Engineer</em>
 </p>
 
 ---
