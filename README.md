@@ -69,14 +69,6 @@
 - 💼 LinkedIn: [linkedin.com/in/bhavya-jain-1a6a4a214](https://linkedin.com/in/bhavya-jain-1a6a4a214)
 - 🧠 Devlog: Coming soon @ AlterBlock’s R&D space
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyajain-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyajain-dev&theme=tokyonight" />
-</p>
 
 ---
 
