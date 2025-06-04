@@ -1,96 +1,113 @@
 <h1 align="center">Hey there, I'm Bhavya Jain 👨‍💻</h1>
 <p align="center">
-  <em>Smart Contract Developer | Cryptography Researcher | Zero Knowledge Proofs and DevOps Learner | Aspiring Protocol Engineer</em>
+  <em>Smart Contract Developer | Cryptography Researcher | Zero-Knowledge & DevOps Enthusiast | Aspiring Protocol Engineer</em>
 </p>
 
 ---
 
 ### 🚀 About Me
-> A vision-driven Computer Science engineering student with an obsessive passion for building backend-heavy, future-oriented tech from the ground up to the sky on the blockchain environment.
 
-- 🔧 Currently Backend Intern at a leading tech company, crafting scalable services.
-- 💡 Building at the intersection of **Blockchain, AI**, and **Secure Infrastructure**.
-- 🔍 Exploring the gaps in the tech landscape to build niche, high-impact solutions.
-- 🌐 Focused on **privacy-first**, **trust-verifiable**, and **nation-scale** systems.
+> A backend designer with strong technical skills, business acumen, and a people-first mindset. I focus on building secure, scalable systems using cryptography and blockchain, especially for government and public platforms.
+
+- 🎯 Driven by curiosity—always exploring new technologies, asking the right questions, and identifying the real problems.
+- 🛡️ Passionate about **trust-verifiable systems**, **quantum-resistant cryptography**, and **privacy-preserving computation**.
+- 🔭 Building projects that blend **backend precision** with **deep cryptographic principles**.
+- 🧱 Founder of **AlterBlock** — visioned for nation-scale, post-quantum secure digital infrastructure.
 
 ---
 
-### 📖 Research Publication (2025)
+### 📖 Research Publication
 
 📄 **Post-Quantum Cryptography: A Comprehensive Review**  
 🗓️ *Jan 2025 – May 2025 (Under Publication)*  
-🔍 *Assessing cryptographic risks in the quantum era*
+🧠 *Quantum Security Meets Real-World Cryptography*
 
-**Highlights:**
-- Assessed quantum threats to RSA, ECC, and symmetric cryptography using **Shor’s and Grover’s algorithms**.
-- Compared leading PQC families: **lattice-based**, **code-based**, **multivariate**, and **hash-based** schemes.
-- Analysed **NIST’s PQC standardisation process** with a focus on post-quantum protocol adoption.
-- Proposed architecture-level implications of quantum-safe cryptography for future secure systems.
-
-This research directly feeds into my goal of building **post-quantum-ready infrastructure** for **critical national and privacy-centric applications**.
-
----
-
-### 🧠 My Approach to Tech & Problem Solving
-> I believe **great engineering is about understanding root causes**, not just applying tools.
-
-- I approach problems with a **bottom-up architecture mindset**: from cryptographic primitives to network protocols to API surface.
-- I focus on **scalability**, **modularity**, and **future-proofing** the stack.
-- I ask: _“Can this be audited, scaled, and secured — even under worst-case scenarios?”_
+- Analyzed Shor’s and Grover’s impact on RSA, ECC, and symmetric cryptosystems.
+- Compared PQC schemes: **Lattice**, **Code**, **Multivariate**, and **Hash-Based**.
+- Studied **NIST PQC standardization** and proposed hybrid transition models.
+- Suggested implementation approaches for **post-quantum secure backends**.
 
 ---
 
 ### 💻 Tech Stack
 
-| Area           | Technologies |
-|----------------|--------------|
-| 🔙 Backend      | Node.js, Express.js, FastAPI, PostgreSQL, MongoDB |
-| 🔐 Blockchain   | Solidity, Hardhat, Ethers.js, web3.js, zk-SNARKs, Circom |
-| ⚙️ DevOps       | Docker, GitHub Actions, NGINX, Linux |
-| 📈 AI & ML      | Python (NumPy, pandas, scikit-learn), PyTorch |
-| 🧪 Testing      | Jest, Postman, Mocha/Chai |
-| 📄 Others       | REST APIs, GraphQL, JWT, Supabase, Firebase Auth |
+| Domain                  | Tools / Technologies |
+|-------------------------|----------------------|
+| 💻 **Languages**          | Solidity, Rust, C/C++, Java, JavaScript, TypeScript, Python, SQL, HTML, CSS |
+| ⚙️ **Backend Dev**        | Node.js, Express.js, FastAPI, Supabase, PostgreSQL, MongoDB |
+| 🔐 **Blockchain**         | Hardhat, Ethers.js, Web3.js, IPFS, Smart Contracts, Ethereum |
+| 🧠 **Cryptography**       | Circom, SnarkJS, ZK-SNARKs, PQC concepts |
+| 🧪 **Testing & QA**       | Jest, Mocha, Postman, Chai |
+| 🌐 **Frontend (Basic)**   | React, Firebase Auth |
+| 🔧 **DevOps & Infra**     | Docker, GitHub Actions, NGINX, Linux, Firebase, Git |
+| 📊 **Data & ML**          | Python (NumPy, pandas, scikit-learn), PyTorch |
+| 🛠️ **Developer Tools**   | VS Code, Vim, GitBash, Matlab, PyCharm |
 
 ---
 
-### 📌 Current Focus
+### 🧠 Problem-Solving Philosophy
 
-- 🌐 **Zero-Knowledge Proofs** for **secure communication in defense applications**
-- 🧱 **Decentralized Infrastructure** to build **privacy-centric and verifiable platforms**
-- 🤖 Building **AI-integrated backend systems** with robust fault-tolerance
+> I solve problems from the root by **thinking in primitives, not just APIs**.
+
+- Follow a **bottom-up architectural mindset** — protocols first, interfaces second.
+- Design with **modularity**, **composability**, and **zero-trust security** principles.
+- Question everything: _“Can this be broken under quantum threat? Can it scale across regions?”_
 
 ---
 
 ### 🌍 Vision & Future Endeavours
 
-> I’m not just building projects — I’m crafting **systems that can endure & evolve**.
+> Building for the **post-AI, post-quantum era** — with privacy, performance, and provability.
 
-- 🌱 **AlterBlock** — A future startup aiming to build verifiable, security-first systems for India using blockchain, cryptography, and embedded systems.
-- 🔐 R&D into **Post-Quantum Cryptography** and **ZKPs** for digital identity and defense tech.
-- 🛰️ Aiming to collaborate with **DRDO & national agencies** for decentralized, cryptographic systems.
-
----
-
-### 🧩 Featured Projects
-
-- **ElectraX** — EV optimization engine reducing placement latency by 30% using geospatial AI.
-- **Ebbix** — A Web3-native video platform embedding monetization and IP protection.
-- **ZK-Proof** — Zero-knowledge proof implementation on Fibonacci Series.
-- **ZK-Comms** — Privacy-preserving secure communication system using Circom & snarkJS.
+- 🛰️ **AlterBlock**: Building nation-scale, trust-verifiable blockchain infrastructure.
+- 🔐 Developing **digital identity solutions** backed by post-quantum cryptography.
+- 🤖 Exploring intersections of **AI + backend** with defense-grade fault tolerance.
+- 💼 Future goal: protocol engineering in blockchain R&D labs or security orgs.
 
 ---
 
-### 📬 Reach Out
+### 🧩 Projects & Implementations
 
-- 📧 Mail: [mailto:jainbhavya861@gmail.com](mailto:jainbhavya861@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/bhavya-jain-1a6a4a214](https://linkedin.com/in/bhavya-jain-1a6a4a214)
-- 🧠 Devlog: Coming soon @ AlterBlock’s R&D space
+🔹 [**ZK-Proof Fibonacci**](https://github.com/jbhavya876/Zkproof)  
+_Circom + SnarkJS circuit to verify Fibonacci series without revealing inputs._
 
+🔹 [**ElectraX**](https://github.com/jbhavya876/Electra-X)  
+_Geospatial optimization engine using AI + smart contracts to boost EV station deployment._
+
+🔹 [**Ebbix**](https://github.com/jbhavya876/Ebbix)  
+_Web3 YouTube with IPFS-based storage and Ethereum-backed micropayments._
+
+🔹 [**ZK-Comms (WIP)**]  
+_Privacy-focused messaging protocol using zk-SNARKs and off-chain authentication._
 
 ---
 
-### 🧠 Philosophy
+### 📌 Courseware Knowledge
 
-> "Don't chase trends. Chase **clarity**, **depth**, and **impact**. The future belongs to builders who care about **integrity, security**, and **scale**."
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Authentication / Authorization
+- Blockchain Protocols & Consensus
+- WebRTC Fundamentals
+- DBMS, OS, CN (System-level Design)
+- Zero-Knowledge Proofs & PQC
+
+---
+
+### 📬 Contact & Socials
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [jbhavya876@gmail.com](mailto:jbhavya876@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/bhavya-jain-394484284](https://linkedin.com/in/bhavya-jain-394484284) |
+| 🧑‍💻 GitHub | [github.com/jbhavya876](https://github.com/jbhavya876) |
+| 🧠 Leetcode | [leetcode.com/u/Bhavya_Jain05](https://leetcode.com/u/Bhavya_Jain05) |
+
+---
+
+### 🧠 Life Principle
+
+> "Build secure. Think long-term. Operate with depth."  
+> _Because tomorrow’s systems will need more than just speed — they'll need truth._
 
 ---
