@@ -19,7 +19,7 @@
 ### 📖 Research Publication
 
 📄 **Post-Quantum Cryptography: A Comprehensive Review**  
-🗓️ *Jan 2025 – May 2025 (Under Publication)*  
+🗓️ *Jan 2025 – May 2025 (Published)*  
 🧠 *Quantum Security Meets Real-World Cryptography*
 
 - Analyzed Shor’s and Grover’s impact on RSA, ECC, and symmetric cryptosystems.
