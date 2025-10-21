@@ -198,7 +198,6 @@ Building for the **Post-AI, Post-Quantum era** — where privacy, performance, a
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/jbhavya876/jbhavya876/output/github-contribution-grid-snake-dark.svg)
   
   **⭐ If you find my work interesting, consider giving my repos a star!**
   
