@@ -25,18 +25,14 @@ Backend engineer and security researcher building cryptographically secure, scal
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=jbhavya876&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbhavya876&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jbhavya876&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbhavya876&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jbhavya876&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jbhavya876&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
 
 ---
 
