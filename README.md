@@ -27,19 +27,6 @@ A backend engineer and security researcher passionate about building cryptograph
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jbhavya876&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbhavya876&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jbhavya876&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
-
-<div align="center">
-  
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jbhavya876&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
@@ -158,16 +145,6 @@ Building for the **Post-AI, Post-Quantum era** — where privacy, performance, a
 - Authentication & Authorization Systems
 - DBMS, OS, CN (System-Level Design)
 - WebRTC & Secure Communication Fundamentals
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jbhavya876&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 
 ---
 
