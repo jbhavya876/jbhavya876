@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  *Smart Contract Developer | Cryptography Researcher | Zero-Knowledge & DevOps Enthusiast | Aspiring Protocol Engineer*
+  *High-Performance Systems Engineer | Applied Cryptography | Rust & DevOps | Full Stack Architect*
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=jbhavya876&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=jbhavya876&color=0e6e55&style=flat-square&label=Profile+Views)
   [![GitHub followers](https://img.shields.io/github/followers/jbhavya876?label=Followers&style=social)](https://github.com/jbhavya876)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-jain-394484284)
   
@@ -14,36 +14,12 @@
 
 ## 🚀 About Me
 
-A backend engineer and security researcher passionate about building cryptographically secure, scalable systems for modern infrastructures — especially those shaping the future of governance, identity, and defense.
+I am a backend engineer and security researcher passionate about **high-concurrency systems**, **cryptography**, and **scalable infrastructure**. My work sits at the intersection of performance and privacy—building systems that are not only fast (using Rust/Node.js) but also cryptographically verifiable (using ZKPs).
 
-- 🔭 Currently engineering trust-verifiable and privacy-preserving architectures using blockchain and cryptography
-- 🧱 Founder of **AlterBlock** — building nation-scale, post-quantum secure digital infrastructure for India
-- 🛡️ Deep interest in zero-knowledge systems, post-quantum cryptography, and protocol design
-- 🎯 I don't just build — I architect systems that can stand the test of time, scale, and computation
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jbhavya876&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
----
-
-## 📖 Research Publication
-
-**📄 Post-Quantum Cryptography: A Comprehensive Review**  
-*Jan 2025 – May 2025 (Published)*
-
-🧠 **Quantum Security Meets Real-World Cryptography**
-
-- Evaluated Shor's and Grover's impacts on RSA, ECC, and symmetric ciphers
-- Analyzed PQC families — Lattice, Code, Multivariate, and Hash-Based cryptography
-- Reviewed NIST PQC standardization process and hybrid migration strategies
-- Proposed a backend-oriented PQC implementation framework for real-world systems
+- 🔭 **Currently Engineering:** Trust-verifiable architectures and high-velocity fintech CRMs.
+- 💼 **Experience:** Ex-Intern at **Lokachakra** (Backend & Cryptography) & **Post-Quantum Research Initiative**.
+- 🛡️ **Specialized In:** Zero-Knowledge Proofs (Circom), Post-Quantum Security, and Event-Driven Architectures.
+- 🎯 **Philosophy:** "Build from primitives, optimize for scale, and secure by default."
 
 ---
 
@@ -51,100 +27,88 @@ A backend engineer and security researcher passionate about building cryptograph
 
 <div align="center">
 
-### Languages
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+### Core Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & Databases
+### Backend & Infrastructure
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-### DevOps & Tools
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### AI & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Specialized & Protocol
+![Circom](https://img.shields.io/badge/Circom-ZK%20Proofs-black?style=for-the-badge)
+![Protobuf](https://img.shields.io/badge/Protobuf-Binary%20Protocol-333333?style=for-the-badge)
+![BullMQ](https://img.shields.io/badge/BullMQ-Message%20Queue-red?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-blue?style=for-the-badge)
+
+### Frontend
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
 ---
 
-## 🧩 Projects & Implementations
+## 🧩 Featured Projects
 
-### 🔹 ZK-Proof Fibonacci
-Circom + SnarkJS implementation to verify Fibonacci sequences without exposing private inputs.
+### 🔹 [Exhibition CRM System (Client Project)](https://github.com/jbhavya876)
+*Event-Driven Fintech Architecture*
+An enterprise-grade CRM handling real-time lead ingestion with zero-latency pre-qualification logic.
+- **Architecture:** Engineered a scalable async pipeline using **Redis** & **BullMQ** to handle high-velocity traffic.
+- **Security:** Implemented robust **RBAC** and idempotency patterns for financial data integrity.
+- **Stack:** `TypeScript` `Fastify` `PostgreSQL` `Redis` `Next.js`
 
-**Tech Stack:** `Circom` `SnarkJS` `Zero-Knowledge Proofs`
+### 🔹 [ZK Identifier](https://github.com/jbhavya876/Zk-Identifier)
+*Decentralized Identity System (DID)*
+A privacy-preserving authentication engine enabling verification without exposing sensitive user data.
+- **Cryptography:** Custom arithmetic circuits in **Circom** (Groth16) for selective disclosure.
+- **Performance:** High-performance **Rust** backend for automated proof verification.
+- **Stack:** `Rust` `Circom` `SnarkJS` `Cryptography`
 
-### 🔹 ElectraX
-Geospatial optimization engine integrating AI and smart contracts for EV charging station deployment.
-
-**Tech Stack:** `Solidity` `AI/ML` `Geospatial Analysis` `Smart Contracts`
-
-### 🔹 Ebbix
-A decentralized content streaming platform — IPFS-backed video storage and Ethereum micropayments.
-
-**Tech Stack:** `IPFS` `Ethereum` `Web3.js` `React.js`
-
-### 🔹 ZK-Comms (WIP)
-A privacy-preserving communication protocol leveraging zk-SNARKs and off-chain authentication.
-
-**Tech Stack:** `Circom` `zk-SNARKs` `Cryptography` `WebRTC`
-
----
-
-## 🧠 Problem-Solving Philosophy
-
-> "I think like a protocol engineer — not just a developer."
-
-- 🧩 **Bottom-up architecture** — build from primitives, not abstractions
-- 🔐 **Zero-trust design** — security is a default, not a layer
-- 🧠 **Scalability through modularity** — every module is testable, verifiable, and replaceable
-- 🚀 Constantly asking: *Can this scale globally? Can it survive a quantum world?*
+### 🔹 [Envision Trading Terminal](https://github.com/jbhavya876/Envision)
+*High-Performance Binary Trading Engine*
+A provably fair gaming platform focusing on low-level networking optimization.
+- **Optimization:** Implemented **Binary Protocol Buffers (Protobuf)** reducing payload size by **70%**.
+- **Fairness:** Utilized **Reverse Hash Chains** and HMAC-SHA256 for cryptographic immutability.
+- **Stack:** `React` `Node.js` `Protobuf` `Socket.IO` `SQLite (WAL)`
 
 ---
 
-## 🌍 Vision & Future Endeavours
+## 💼 Work Experience
 
-Building for the **Post-AI, Post-Quantum era** — where privacy, performance, and provability converge.
+**🏢 Lokachakra (UK Tech Startup) | Backend & Cryptography Intern**
+*June 2025 – August 2025*
+- Designed a secure KYC backend for 10K+ users using **Rust**.
+- Architected privacy-by-design workflows and secure key management systems.
 
-- 🛰️ **AlterBlock**: Laying the foundation for a trust-verifiable blockchain infrastructure
-- 🔐 Designing digital identity systems fortified by PQC and ZK proofs
-- 🤖 Innovating at the intersection of AI + backend resilience for mission-critical systems
-- 💼 **Long-term goal**: Protocol engineering in blockchain R&D or national security orgs
+**🔬 Post-Quantum Cryptography Initiative | Research Intern**
+*Jan 2025 – May 2025*
+- Analyzed the impact of **Shor’s & Grover’s algorithms** on RSA/ECC.
+- Evaluated implementation strategies for NIST-standardized Lattice-based cryptography.
 
 ---
 
-## 📘 Technical Courseware
+## 🏆 Achievements & Leadership
 
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Blockchain Protocols & Consensus
-- Zero-Knowledge Proofs & Cryptography
-- Authentication & Authorization Systems
-- DBMS, OS, CN (System-Level Design)
-- WebRTC & Secure Communication Fundamentals
+- 🥇 **1st Rank:** Vibe Coding Contest (Algorithmic Problem Solving).
+- 🥈 **Top 10 Finalist:** NSUT Ideathon & Delhi Industrial Ideathon.
+- 🥉 **Top 20 Finalist:** Vihaan Hackathon (DTU) — selected from 4000+ participants.
+- 🛡️ **Research:** Published review on "Post-Quantum Cryptography: A Comprehensive Review."
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbhavya876&theme=react&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
 
 ---
 
@@ -154,28 +118,6 @@ Building for the **Post-AI, Post-Quantum era** — where privacy, performance, a
 
 [![Email](https://img.shields.io/badge/Email-jbhavya876%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbhavya876@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavya%20Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-jain-394484284)
-[![GitHub](https://img.shields.io/badge/GitHub-jbhavya876-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbhavya876)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Bhavya__Jain05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bhavya_Jain05)
 
-</div>
-
----
-
-## 💡 Life Principle
-
-<div align="center">
-
-> "Build secure. Think long-term. Operate with depth."
-
-*Because the next era won't just demand speed — it'll demand truth, integrity, and resilience.*
-
-</div>
-
----
-
-<div align="center">
-  
-  
-  **⭐ If you find my work interesting, consider giving my repos a star!**
-  
 </div>
