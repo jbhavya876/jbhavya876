@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  *High-Performance Systems Engineer | Applied Cryptography | Rust & DevOps | Full Stack Architect*
+  *High-Performance Systems Engineer | Applied Cryptography | Rust & Python | Full Stack Architect*
   
   ![Profile Views](https://komarev.com/ghpvc/?username=jbhavya876&color=0e6e55&style=flat-square&label=Profile+Views)
   [![GitHub followers](https://img.shields.io/github/followers/jbhavya876?label=Followers&style=social)](https://github.com/jbhavya876)
@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-I am a backend engineer and security researcher passionate about **high-concurrency systems**, **cryptography**, and **scalable infrastructure**. My work sits at the intersection of performance and privacy—building systems that are not only fast (using Rust/Node.js) but also cryptographically verifiable (using ZKPs).
+I am a backend engineer and security researcher passionate about **high-concurrency systems**, **cryptography**, and **scalable infrastructure**. My work spans from event-driven ML pipelines to cryptographically verifiable identity systems—building things that are fast, observable, and secure by default.
 
-- 🔭 **Currently Engineering:** Trust-verifiable architectures and high-velocity fintech CRMs.
+- 🔭 **Currently Engineering:** Production-grade stream-processing systems and trust-verifiable fintech architectures.
 - 💼 **Experience:** Ex-Intern at **Lokachakra** (Backend & Cryptography) & **Post-Quantum Research Initiative**.
-- 🛡️ **Specialized In:** Zero-Knowledge Proofs (Circom), Post-Quantum Security, and Event-Driven Architectures.
+- 🛡️ **Specialized In:** Zero-Knowledge Proofs (Circom), Post-Quantum Security, Event-Driven ML Pipelines, and Real-Time Observability.
 - 🎯 **Philosophy:** "Build from primitives, optimize for scale, and secure by default."
 
 ---
@@ -29,6 +29,7 @@ I am a backend engineer and security researcher passionate about **high-concurre
 
 ### Core Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,12 +37,24 @@ I am a backend engineer and security researcher passionate about **high-concurre
 ### Backend & Infrastructure
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Specialized & Protocol
+### AI / ML & Data
+![XGBoost](https://img.shields.io/badge/XGBoost-ML%20Model-orange?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-informational?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Observability & Protocols
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Circom](https://img.shields.io/badge/Circom-ZK%20Proofs-black?style=for-the-badge)
 ![Protobuf](https://img.shields.io/badge/Protobuf-Binary%20Protocol-333333?style=for-the-badge)
 ![BullMQ](https://img.shields.io/badge/BullMQ-Message%20Queue-red?style=for-the-badge)
@@ -58,6 +71,14 @@ I am a backend engineer and security researcher passionate about **high-concurre
 
 ## 🧩 Featured Projects
 
+### 🔹 [Real-Time Fraud Detection Engine](https://github.com/jbhavya876/realtime-fraud-detection-engine)
+*Production-Grade Stream Processing & Explainable ML System*
+A fully containerised, end-to-end fraud detection pipeline that consumes live transaction streams and delivers explainable AI verdicts in real time.
+- **Architecture:** Event-driven pipeline with **Kafka (Redpanda)** for stream ingestion and **Redis** for per-user velocity tracking and behavioural state management.
+- **ML & XAI:** **XGBoost** classifier behind a FastAPI inference layer, with **SHAP TreeExplainer** generating human-readable fraud reasons per transaction (amount anomaly, location mismatch, velocity burst).
+- **Observability:** Full **Prometheus + Grafana** metrics stack + a **Streamlit** FraudOps Portal for live pipeline monitoring and drag-and-drop batch CSV analysis.
+- **Stack:** `Python` `Kafka` `Redis` `XGBoost` `SHAP` `FastAPI` `Streamlit` `Docker` `Prometheus` `Grafana`
+
 ### 🔹 [Exhibition CRM System (Client Project)](https://github.com/jbhavya876)
 *Event-Driven Fintech Architecture*
 An enterprise-grade CRM handling real-time lead ingestion with zero-latency pre-qualification logic.
@@ -72,13 +93,6 @@ A privacy-preserving authentication engine enabling verification without exposin
 - **Performance:** High-performance **Rust** backend for automated proof verification.
 - **Stack:** `Rust` `Circom` `SnarkJS` `Cryptography`
 
-### 🔹 [Envision Trading Terminal](https://github.com/jbhavya876/Envision)
-*High-Performance Binary Trading Engine*
-A provably fair gaming platform focusing on low-level networking optimization.
-- **Optimization:** Implemented **Binary Protocol Buffers (Protobuf)** reducing payload size by **70%**.
-- **Fairness:** Utilized **Reverse Hash Chains** and HMAC-SHA256 for cryptographic immutability.
-- **Stack:** `React` `Node.js` `Protobuf` `Socket.IO` `SQLite (WAL)`
-
 ---
 
 ## 💼 Work Experience
@@ -90,7 +104,7 @@ A provably fair gaming platform focusing on low-level networking optimization.
 
 **🔬 Post-Quantum Cryptography Initiative | Research Intern**
 *Jan 2025 – May 2025*
-- Analyzed the impact of **Shor’s & Grover’s algorithms** on RSA/ECC.
+- Analyzed the impact of **Shor's & Grover's algorithms** on RSA/ECC.
 - Evaluated implementation strategies for NIST-standardized Lattice-based cryptography.
 
 ---
