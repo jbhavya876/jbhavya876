@@ -18,8 +18,8 @@ I am a backend engineer and security researcher passionate about **high-concurre
 
 - 🔭 **Currently Engineering:** Production-grade stream-processing systems and trust-verifiable fintech architectures.
 - 💼 **Experience:** Ex-Intern at **Lokachakra** (Backend & Cryptography) & **Post-Quantum Research Initiative**.
-- 🛡️ **Specialized In:** Zero-Knowledge Proofs (Circom), Post-Quantum Security, Event-Driven ML Pipelines, and Real-Time Observability.
-- 🎯 **Philosophy:** "Build from primitives, optimize for scale, and secure by default."
+- 🛡️ **Specialised In:** Zero-Knowledge Proofs (Circom), Post-Quantum Security, Event-Driven ML Pipelines, and Real-Time Observability.
+- 🎯 **Philosophy:** "Build from primitives, optimise for scale, and secure by default."
 
 ---
 
@@ -71,6 +71,14 @@ I am a backend engineer and security researcher passionate about **high-concurre
 
 ## 🧩 Featured Projects
 
+### 🔹 [PoR Vault: Time-Locked Bitcoin Inheritance](https://github.com/jbhavya876/por-vault)
+*Non-Custodial Cryptographic Dead Man's Switch*
+An institutional-grade, air-gapped inheritance vault built natively on the Bitcoin protocol using bare-metal time-locks.
+- **Cryptography & Consensus:** Engineered custom SegWit (P2WSH) smart contracts using `OP_CSV` and `OP_IF` for relative time-locked UTXO sweeping.
+- **Security Architecture:** AES-256-GCM encrypted keystore in memory, BIP-174 PSBT (Partially Signed Bitcoin Transactions) generation for true cold-storage execution, and BIP-125 Replace-By-Fee (RBF) mempool resilience.
+- **Observability:** Built a self-healing, multi-threaded watchtower daemon to monitor on-chain UTXO states and trigger alerts on time-lock expiry via Mempool.space APIs.
+- **Stack:** `Rust` `Bitcoin Primitives` `secp256k1` `AES-256-GCM` `Clap` 
+
 ### 🔹 [Real-Time Fraud Detection Engine](https://github.com/jbhavya876/realtime-fraud-detection-engine)
 *Production-Grade Stream Processing & Explainable ML System*
 A fully containerised, end-to-end fraud detection pipeline that consumes live transaction streams and delivers explainable AI verdicts in real time.
@@ -87,7 +95,7 @@ An enterprise-grade CRM handling real-time lead ingestion with zero-latency pre-
 - **Stack:** `TypeScript` `Fastify` `PostgreSQL` `Redis` `Next.js`
 
 ### 🔹 [ZK Identifier](https://github.com/jbhavya876/Zk-Identifier)
-*Decentralized Identity System (DID)*
+*Decentralised Identity System (DID)*
 A privacy-preserving authentication engine enabling verification without exposing sensitive user data.
 - **Cryptography:** Custom arithmetic circuits in **Circom** (Groth16) for selective disclosure.
 - **Performance:** High-performance **Rust** backend for automated proof verification.
@@ -105,7 +113,7 @@ A privacy-preserving authentication engine enabling verification without exposin
 **🔬 Post-Quantum Cryptography Initiative | Research Intern**
 *Jan 2025 – May 2025*
 - Analyzed the impact of **Shor's & Grover's algorithms** on RSA/ECC.
-- Evaluated implementation strategies for NIST-standardized Lattice-based cryptography.
+- Evaluated implementation strategies for NIST-standardised Lattice-based cryptography.
 
 ---
 
