@@ -58,15 +58,15 @@ I am a systems engineer and protocol researcher focused on **high-performance co
 
 ## 🧩 Featured Projects
 
-### 🔹 [LedgerX: Decentralized Property Ledger](https://github.com/jbhavya876/ledgerx)
+### 🔹 [LedgerX: Decentralised Property Ledger](https://github.com/jbhavya876/ledgerx)
 *Enterprise Blockchain & Verifiable Identity System*
-A trust-minimized, high-throughput property registration and verification platform tailored for the Indian real estate ecosystem.
+A trust-minimised, high-throughput property registration and verification platform tailored for the Indian real estate ecosystem.
 - **Consensus & Architecture:** Implemented a permissioned network topology using **Hyperledger Fabric**, featuring private data collections to ensure transaction confidentiality.
-- **Identity Layer:** Integrated **Aadhaar-anchored Decentralized Identifiers (DIDs)** and verifiable credentials to eliminate identity fraud at the protocol layer.
+- **Identity Layer:** Integrated **Aadhaar-anchored Decentralised Identifiers (DIDs)** and verifiable credentials to eliminate identity fraud at the protocol layer.
 - **Engine:** Built using a high-concurrency **Rust (Axum)** API gateway optimized for asynchronous state updates.
 
-### 🔹 [AlgoVault: Formal Benchmarking Engine](https://github.com/jbhavya876/algovault)
-*High-Performance Benchmarking Platform with Mathematical Guarantees*
+### 🔹 [Triad: High-Performance Benchmarking Engine](https://github.com/jbhavya876/triad)
+*Bare-Metal Algorithm Profiling Platform with Mathematical Guarantees*
 An isolated execution environment designed to profile, benchmark, and mathematically verify algorithmic state transitions.
 - **Formal Verification:** Built using **TLA+ formal specifications** to eliminate race conditions, deadlocks, and state mutation errors before code execution.
 - **Systems Engineering:** Developed a bare-metal execution sandbox in **Rust** utilizing low-level resource isolation to track exact memory allocations, CPU cycles, and cache misses.
@@ -79,7 +79,7 @@ An institutional-grade, air-gapped inheritance vault executing natively on the B
 - **Daemon Layer:** Built a multi-threaded Rust watchtower daemon monitoring mempools via JSON-RPC/REST to handle dynamic RBF (Replace-By-Fee) automated sweeping.
 
 ### 🔹 [ZK Identifier](https://github.com/jbhavya876/Zk-Identifier)
-*Zero-Knowledge Decentralized Identity Engine*
+*Zero-Knowledge Decentralised Identity Engine*
 A privacy-preserving identity verification protocol enabling selective disclosure without exposing data primitives.
 - **Circuits:** Authored arithmetic circuits in **Circom** using the **Groth16** zk-SNARK proving system.
 - **Verification Backend:** Built a low-latency, deterministic verification module in **Rust** to ingest proofs and update state on-chain asynchronously.
@@ -92,19 +92,19 @@ A privacy-preserving identity verification protocol enabling selective disclosur
 *August 2025 – December 2025*
 - Architected and deployed production-grade, privacy-preserving KYC workflows using zero-knowledge proofs.
 - Developed the core, highly concurrent Rust-based registration and cryptographic identity verification modules.
-- Decreased authentication overhead by implementing optimized cryptographic serialization formats.
+- Decreased authentication overhead by implementing optimised cryptographic serialisation formats.
 
 **🔬 Post-Quantum Cryptography Initiative | Research Intern**
 *January 2025 – December 2025*
 - Evaluated the mathematical vulnerabilities of classical public-key infrastructure (RSA, ECC) against Shor's and Grover's algorithms.
-- Modeled and benchmarked migration complexity parameters for NIST-standardized lattice-based cryptographic primitives.
+- Modeled and benchmarked migration complexity parameters for NIST-standardised lattice-based cryptographic primitives.
 
 ---
 
 ## 🏆 Achievements & Publications
 
 - 📑 **Research Publication:** Published *"Post-Quantum Cryptography: A Comprehensive Review"* on SSRN (Abstract ID: `5286065`), detailing quantum-safe primitive deployment strategies.
-- 🥈 **Semi-Finalist:** Algorand Hackathon (Project Shakti) — Engineered decentralized governance protocols.
+- 🥈 **Semi-Finalist:** Algorand Hackathon (Project Shakti) — Engineered decentralised governance protocols.
 - 🥇 **1st Rank:** Vibe Coding Contest (Algorithmic Efficiency & Optimization).
 - 🥉 **Top 20 Finalist:** Vihaan Hackathon (DTU) — Out of 4,000+ competitors.
 
