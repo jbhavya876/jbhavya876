@@ -1,50 +1,54 @@
+# 👋 Hey there, I'm Bhavya Jain
+
 <div align="center">
-
-# Hi, I'm Bhavya Jain 👋
-
-### Backend Engineer | Applied Cryptography | High-Performance Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-jain-394484284)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbhavya876@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bhavya_Jain05)
-
+  
+  *Protocol & Systems Engineer | Applied Cryptography | Rust, Python & Go | Backend Architect*
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=jbhavya876&color=0e6e55&style=flat-square&label=Profile+Views)
+  [![GitHub followers](https://img.shields.io/github/followers/jbhavya876?label=Followers&style=social)](https://github.com/jbhavya876)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-jain-394484284)
+  
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-```rust
-let engineer = Engineer {
-    name: "Bhavya Jain",
-    focus: vec!["High-Performance Systems", "Applied Cryptography", "Event-Driven Architecture"],
-    currently_building: "Production-grade stream-processing & trust-verifiable fintech systems",
-    core_belief: "Build from primitives, optimise for scale, secure by default"
-};
-```
+I am a systems engineer and protocol researcher focused on **high-performance concurrent systems**, **applied cryptography**, and **provably secure backends**. My work focuses on building low-latency stream-processing pipelines, cryptographically verifiable digital identity frameworks, and formal algorithm benchmarking engines.
 
-- 🔭 Building cryptographically verifiable systems and high-concurrency infrastructure
-- 🛡️ Deep experience with Zero-Knowledge Proofs, Post-Quantum Security, and Bitcoin primitives
-- ⚡ Ex-Intern at **Lokachakra** (Backend & Cryptography)
-- 📚 Published research on Post-Quantum Cryptography
+- 🔭 **Currently Architecting:** `AlgoVault` (a high-performance algorithm benchmarking platform integrated with formal TLA+ specifications) and deep-tech DAO tokenomics.
+- 💼 **Experience:** Lead Blockchain & ZKP Engineering Intern at **Lokachakra** | Researcher in Post-Quantum Cryptography.
+- 🛡️ **Core Specializations:** Zero-Knowledge Proofs (Circom/Groth16), Hyperledger Fabric, Distributed State Machines, and Post-Quantum Security.
+- 🎯 **Philosophy:** "Compile-time guarantees, deterministic execution, and minimal abstraction layers."
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### Core Languages & Frameworks
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-Rust%20Web-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Distributed Systems & Infrastructure
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3192?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+
+### Cryptography & Formal Methods
+![Circom](https://img.shields.io/badge/Circom-ZK%20Proofs-black?style=for-the-badge)
+![TLA+](https://img.shields.io/badge/TLA%2B-Formal%20Verification-blue?style=for-the-badge)
+![Protobuf](https://img.shields.io/badge/Protobuf-Binary%20Protocol-333333?style=for-the-badge)
+
+### Intelligence & Observability
+![XGBoost](https://img.shields.io/badge/XGBoost-ML%20Model-orange?style=for-the-badge)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
@@ -52,81 +56,74 @@ let engineer = Engineer {
 
 ---
 
-### 💡 Featured Projects
+## 🧩 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🔹 [LedgerX: Decentralized Property Ledger](https://github.com/jbhavya876/ledgerx)
+*Enterprise Blockchain & Verifiable Identity System*
+A trust-minimized, high-throughput property registration and verification platform tailored for the Indian real estate ecosystem.
+- **Consensus & Architecture:** Implemented a permissioned network topology using **Hyperledger Fabric**, featuring private data collections to ensure transaction confidentiality.
+- **Identity Layer:** Integrated **Aadhaar-anchored Decentralized Identifiers (DIDs)** and verifiable credentials to eliminate identity fraud at the protocol layer.
+- **Engine:** Built using a high-concurrency **Rust (Axum)** API gateway optimized for asynchronous state updates.
 
-#### 🔐 [PoR Vault](https://github.com/jbhavya876/por-vault)
-Non-custodial Bitcoin inheritance vault with time-locked UTXO sweeping using SegWit smart contracts (OP_CSV/OP_IF), AES-256-GCM encryption, and self-healing watchtower daemon.
+### 🔹 [AlgoVault: Formal Benchmarking Engine](https://github.com/jbhavya876/algovault)
+*High-Performance Benchmarking Platform with Mathematical Guarantees*
+An isolated execution environment designed to profile, benchmark, and mathematically verify algorithmic state transitions.
+- **Formal Verification:** Built using **TLA+ formal specifications** to eliminate race conditions, deadlocks, and state mutation errors before code execution.
+- **Systems Engineering:** Developed a bare-metal execution sandbox in **Rust** utilizing low-level resource isolation to track exact memory allocations, CPU cycles, and cache misses.
 
-**Tech:** `Rust` `Bitcoin` `secp256k1` `Cryptography`
+### 🔹 [PoR Vault: Time-Locked Bitcoin Inheritance](https://github.com/jbhavya876/por-vault)
+*Non-Custodial Cryptographic Dead Man's Switch*
+An institutional-grade, air-gapped inheritance vault executing natively on the Bitcoin blockchain via script-enforced time-locks.
+- **On-Chain Logic:** Engineered custom SegWit (P2WSH) scripts utilizing `OP_RELATIVE_TIMELOCK` (`OP_CSV`) and conditional execution paths (`OP_IF`/`OP_ELSE`).
+- **Security & Memory Safety:** Designed an in-memory AES-256-GCM encrypted keystore using `secp256k1` primitives. Generates compliant BIP-174 Partially Signed Bitcoin Transactions (PSBT) to maintain air-gapped isolation.
+- **Daemon Layer:** Built a multi-threaded Rust watchtower daemon monitoring mempools via JSON-RPC/REST to handle dynamic RBF (Replace-By-Fee) automated sweeping.
 
-</td>
-<td width="50%">
-
-#### 🎯 [Real-Time Fraud Detection](https://github.com/jbhavya876/realtime-fraud-detection-engine)
-Production-grade stream processing pipeline with Kafka, XGBoost ML, SHAP explainability, and full Prometheus/Grafana observability stack.
-
-**Tech:** `Python` `Kafka` `Redis` `XGBoost` `Docker`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🏢 [Exhibition CRM System](https://github.com/jbhavya876)
-Enterprise fintech CRM with async Redis/BullMQ pipeline for high-velocity lead processing, RBAC, and idempotency patterns.
-
-**Tech:** `TypeScript` `Fastify` `PostgreSQL` `Next.js`
-
-</td>
-<td width="50%">
-
-#### 🔑 [ZK Identifier](https://github.com/jbhavya876/Zk-Identifier)
-Privacy-preserving DID system with custom Circom circuits (Groth16) for selective disclosure and Rust backend for proof verification.
-
-**Tech:** `Rust` `Circom` `SnarkJS` `ZK Proofs`
-
-</td>
-</tr>
-</table>
+### 🔹 [ZK Identifier](https://github.com/jbhavya876/Zk-Identifier)
+*Zero-Knowledge Decentralized Identity Engine*
+A privacy-preserving identity verification protocol enabling selective disclosure without exposing data primitives.
+- **Circuits:** Authored arithmetic circuits in **Circom** using the **Groth16** zk-SNARK proving system.
+- **Verification Backend:** Built a low-latency, deterministic verification module in **Rust** to ingest proofs and update state on-chain asynchronously.
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Work Experience
+
+**🏢 Lokachakra | Lead Blockchain & Zero-Knowledge Proof Intern**
+*August 2025 – December 2025*
+- Architected and deployed production-grade, privacy-preserving KYC workflows using zero-knowledge proofs.
+- Developed the core, highly concurrent Rust-based registration and cryptographic identity verification modules.
+- Decreased authentication overhead by implementing optimized cryptographic serialization formats.
+
+**🔬 Post-Quantum Cryptography Initiative | Research Intern**
+*January 2025 – December 2025*
+- Evaluated the mathematical vulnerabilities of classical public-key infrastructure (RSA, ECC) against Shor's and Grover's algorithms.
+- Modeled and benchmarked migration complexity parameters for NIST-standardized lattice-based cryptographic primitives.
+
+---
+
+## 🏆 Achievements & Publications
+
+- 📑 **Research Publication:** Published *"Post-Quantum Cryptography: A Comprehensive Review"* on SSRN (Abstract ID: `5286065`), detailing quantum-safe primitive deployment strategies.
+- 🥈 **Semi-Finalist:** Algorand Hackathon (Project Shakti) — Engineered decentralized governance protocols.
+- 🥇 **1st Rank:** Vibe Coding Contest (Algorithmic Efficiency & Optimization).
+- 🥉 **Top 20 Finalist:** Vihaan Hackathon (DTU) — Out of 4,000+ competitors.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbhavya876&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbhavya876&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbhavya876&theme=react&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbhavya876&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
-</div>
-
 ---
 
-### 🏆 Achievements
-
-🥇 1st Place - Vibe Coding Contest  
-🥈 Top 10 - NSUT Ideathon & Delhi Industrial Ideathon  
-🥉 Top 20/4000 - Vihaan Hackathon (DTU)  
-📄 Published - "Post-Quantum Cryptography: A Comprehensive Review"
-
----
+## 📬 Connect With Me
 
 <div align="center">
 
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-jain-394484284)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbhavya876@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbhavya876)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bhavya_Jain05)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jbhavya876&color=58a6ff&style=flat-square)
+[![Email](https://img.shields.io/badge/Email-jbhavya876%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbhavya876@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavya%20Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-jain-394484284)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Bhavya__Jain05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bhavya_Jain05)
 
 </div>
