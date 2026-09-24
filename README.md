@@ -4,7 +4,7 @@
 
 Research Associate (Cryptography) at Namo Labs, working on post-quantum migration. Final-year BTech CS (CGPA 9.00/10). Rust first.
 
-[LinkedIn](https://www.linkedin.com/in/bhavya-jain-394484284/) | [Paper - SSRN 5286065](https://doi.org/10.2139/ssrn.5286065) | [LeetCode](https://leetcode.com/u/Bhavya_Jain05)
+[LinkedIn](https://www.linkedin.com/in/bhavya-jain-394484284/) | [Paper - SSRN 5286065](https://doi.org/10.2139/ssrn.5286065) | [Codeforces](https://codeforces.com/profile/jbhavya876)
 
 ## What I've built
 
